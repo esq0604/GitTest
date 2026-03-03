@@ -4,7 +4,11 @@
 
 1. 작업자 A 작업
 
+<<<<<<< Updated upstream
 2. 작업자 B 작업
 =======
 기존 작업물
 >>>>>>> parent of e78e257 (Update Merge.txt)
+=======
+2. 작업자 A 작업
+>>>>>>> Stashed changes
